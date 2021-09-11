@@ -1,1 +1,1 @@
-used deno, oak and postgresql
+Used deno, oak and postgresql
